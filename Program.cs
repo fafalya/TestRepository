@@ -9,6 +9,7 @@ namespace ConsoleApp55 {
         static void Main(string[] args) {
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("Hello, world!");
+            Console.WriteLine("Hey Ho");
 
         }
     }
